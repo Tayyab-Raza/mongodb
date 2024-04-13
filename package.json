@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.3.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "raza": "nodemon index.js"
+  },
+  "name": "raza.mongodb",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
